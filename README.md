@@ -41,3 +41,10 @@
 ### [major/minor](https://github.com/deepdk/30-Day-Chart-Challenge-2024/tree/main/major-minor)
 
 ![image](https://github.com/deepdk/30-Day-Chart-Challenge-2024/assets/31981663/d9cea7af-385c-4a55-b50e-0665c96b1234)
+
+---
+
+### [family](https://github.com/deepdk/30-Day-Chart-Challenge-2024/tree/main/family)
+
+![family](https://github.com/deepdk/30-Day-Chart-Challenge-2024/assets/31981663/f91563f5-ea77-4508-9215-889593b93524)
+
